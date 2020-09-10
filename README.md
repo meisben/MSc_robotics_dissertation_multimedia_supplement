@@ -1,32 +1,9 @@
-# An online robotics activity for Girls Into Coding
+# MSc robotics (UWE/UoB) dissertation multimedia supplement
 
-[![logoPicture](images/girlsIntoCodingLogo.jpg)](https://www.girlsintocoding.com/)
+[![logoPicture](images/uwe_uni_logo.png)](https://www.girlsintocoding.com/)
+[![logoPicture](images/bristol_uni_logo.jpg)](https://www.girlsintocoding.com/)
 
-A project activity for [Girls Into Coding](https://www.girlsintocoding.com/) using a online version of the free open source [Webots](https://www.cyberbotics.com/) robot simulator.
-
-This activity is generated as a webpage at [https://meisben.github.io/girlsIntoCoding-robotbenchmark-activity/](https://meisben.github.io/girlsIntoCoding-robotbenchmark-activity/)
-
-## Contents
-
-- Overview
-- Accessing the activity webpage
-- Contributing
-- Credit
-- Help and updates
-
-## Overview
-
-This activity uses [robotbenchmark](https://robotbenchmark.net/), which is a online version of the [Webots](https://www.cyberbotics.com/) simulator. 
-
-![Activity2Picture](images/viewPointControl_imageText1.jpg)
-
-## Accessing the activity webpage
-
-Simply point your browser to [https://meisben.github.io/girlsIntoCoding-robotbenchmark-activity/](https://meisben.github.io/girlsIntoCoding-robotbenchmark-activity/)
-
-## Contributing
-
-Feel free very welcome to contribute if you find any errors in this activity, by initiating a pull request
+This document is generated as a webpage at [https://meisben.github.io/MSc_robotics_dissertation_multimedia_supplement/](https://meisben.github.io/MSc_robotics_dissertation_multimedia_supplement/) please follow this link to access it.
 
 ## Credit
 
@@ -34,4 +11,4 @@ This activity uses bootstrap in the github pages website, thanks to [https://nic
 
 ## Help and updates
 
-If you have any difficulty with the activity please all initiate a pull request to contact for any help :)
+If you have any difficulty with this webpage please initiate a pull request or message me to contact for any help :)
