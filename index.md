@@ -3,9 +3,7 @@ layout: page
 title: Welcome!
 ---
 
-<br>
-
-This website provides a gateway to the multimedia (video) supplementary video provided with the sumbitted dissertation in submission for the degree MSc Robotics. Please access it using the link below. The link is password protected to protect confidentiality until the dissertation is released into the public domain.
+This website provides a gateway to the multimedia (video) supplementary video provided with my dissertation submitted for the degree MSc Robotics. Please access it using the link below. The link is password protected to protect confidentiality until the dissertation is released into the public domain.
 
 When this dissertation is released in the public domain, then the password will be removed. If you have problems accessing the link please contact me directly (ben.money@gmail.com)
 
@@ -31,5 +29,4 @@ When this dissertation is released in the public domain, then the password will 
 
 [![logoPicture](images/bristol_uni_logo.jpg)](http://uobwww.isys.bristol.ac.uk/study/postgraduate/2020/eng/msc-robotics/)
 
-<br>
 <br>
