@@ -1,7 +1,7 @@
 # MSc robotics (UWE/UoB) dissertation multimedia supplement
 
-[![logoPicture](images/uwe_uni_logo.png)](https://www.girlsintocoding.com/)
-[![logoPicture](images/bristol_uni_logo.jpg)](https://www.girlsintocoding.com/)
+[![logoPicture](images/uwe_uni_logo.png)](https://courses.uwe.ac.uk/H67B1/robotics)
+[![logoPicture](images/bristol_uni_logo.jpg)](http://uobwww.isys.bristol.ac.uk/study/postgraduate/2020/eng/msc-robotics/)
 
 This document is generated as a webpage at [https://meisben.github.io/MSc_robotics_dissertation_multimedia_supplement/](https://meisben.github.io/MSc_robotics_dissertation_multimedia_supplement/) please follow this link to access it.
 
