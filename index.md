@@ -1,14 +1,20 @@
 ---
 layout: page
-title: Supplementary video material 
+title: Welcome!
 ---
+
+<br>
+<br>
+
 [![logoPicture](images/uwe_uni_logo.png)](http://uobwww.isys.bristol.ac.uk/study/postgraduate/2020/eng/msc-robotics/)
 [![logoPicture](images/bristol_uni_logo.jpg)](https://www.girlsintocoding.com/)
 
 <br>
 <br>
 
-This website provides a gateway to the multimedia (video) supplementary video provided with the sumbitted dissertation in submission for the degree MSc Robotics. Please access it using the link below. The password for the link is provided adjacent to the link in the dissertation. If this dissertation is made public the password will be removed. If you have problems accessing the link please contact me directly (ben.money@gmail.com)
+This website provides a gateway to the multimedia (video) supplementary video provided with the sumbitted dissertation in submission for the degree MSc Robotics. Please access it using the link below. The link is password protected to protect confidentiality until the disesrtation is released into the public domain. The password for the link is provided adjacent to the link in the body (text) of the dissertation. 
+
+When this dissertation is released in the public domain, then the password will be removed. If you have problems accessing the link please contact me directly (ben.money@gmail.com)
 
 <!--Comment: Paragrpah spacing-->
 <br>
@@ -17,7 +23,7 @@ This website provides a gateway to the multimedia (video) supplementary video pr
 
 <div id="resourcesPanel" class="container p-3 my-3 bg-info">
 <h2>Video link</h2> 
-  <p>Please click on the link and enter the password which has already been provided</p>
+  <p>Please click on the link below. A password entry form will appear, enter the password which has already been provided</p>
 <ul class="list-group">
   <a href="https://www.w3schools.com/python/" target="_blank" class="list-group-item list-group-item-action">Supplementary video link</a>
 </ul>
