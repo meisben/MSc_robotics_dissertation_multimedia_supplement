@@ -15,7 +15,7 @@ When this dissertation is released in the public domain, then the password will 
 <h2>Video link</h2> 
   <p>Please click on the link below. A password entry form will appear, enter the password which has already been provided. The password for the link is provided adjacent to the link in the body (text) of the dissertation. </p>
 <ul class="list-group">
-  <a href="https://www.w3schools.com/python/" target="_blank" class="list-group-item list-group-item-action">Click here</a>
+  <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWWpZajlXb2dML1RxVUlINjJHMS91dFdRNUw1eDJ0UktQNmpuYm52aGlDN01VNzUzSmpMOVZEd2RsQlU9IiwiaCI6IlBhc3N3b3JkIGlzIG1hZGUgYXZhaWxhYmxlIGluIHRoZSBkaXNzZXJ0YXRpb24gYWJzdHJhY3QiLCJpIjoiRWxycWJSTjJobnZqT2xHZSJ9" target="_blank" class="list-group-item list-group-item-action">Click here</a>
 </ul>
 </div>
 
