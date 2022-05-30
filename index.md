@@ -3,17 +3,28 @@ layout: page
 title: Welcome!
 ---
 
-This website provides a gateway to the multimedia (video) supplementary video provided with my dissertation submitted for the degree MSc Robotics. Please access it using the link below. The link is password protected to protect confidentiality until the dissertation is released into the public domain.
+This website provides a gateway to my dissseration and supplementary video submitted for the degree MSc Robotics. Please access it using the link below. 
 
-When this dissertation is released in the public domain, then the password will be removed. If you have problems accessing the link please contact me directly (ben.money@gmail.com)
+
 
 <!--Comment: Paragrpah spacing-->
 
 <br>
 
 <div id="resourcesPanel" class="container p-3 my-3 bg-info">
+<h2>Dissertation material</h2> 
+  <p>Please click on the links below. </p>
+<ul class="list-group">
+  <a href="https://drive.google.com/file/d/1xnUxDvSMMhp5sHwxD5t4fX0OGhOgA23-/view?usp=sharing">Dissertation</a>
+</ul>
+<ul class="list-group">
+  <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWWpZajlXb2dML1RxVUlINjJHMS91dFdRNUw1eDJ0UktQNmpuYm52aGlDN01VNzUzSmpMOVZEd2RsQlU9IiwiaCI6IlBhc3N3b3JkIGlzIG1hZGUgYXZhaWxhYmxlIGluIHRoZSBkaXNzZXJ0YXRpb24gYWJzdHJhY3QiLCJpIjoiRWxycWJSTjJobnZqT2xHZSJ9" target="_blank" class="list-group-item list-group-item-action">Supplementary video</a>
+</ul>
+</div>
+
+<div id="resourcesPanel" class="container p-3 my-3 bg-info">
 <h2>Video link</h2> 
-  <p>Please click on the link below. A password entry form will appear, enter the password which has already been provided. The password for the link is provided adjacent to the link in the body (text) of the dissertation. </p>
+  <p>Please click on the link below. </p>
 <ul class="list-group">
   <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWWpZajlXb2dML1RxVUlINjJHMS91dFdRNUw1eDJ0UktQNmpuYm52aGlDN01VNzUzSmpMOVZEd2RsQlU9IiwiaCI6IlBhc3N3b3JkIGlzIG1hZGUgYXZhaWxhYmxlIGluIHRoZSBkaXNzZXJ0YXRpb24gYWJzdHJhY3QiLCJpIjoiRWxycWJSTjJobnZqT2xHZSJ9" target="_blank" class="list-group-item list-group-item-action">Click here</a>
 </ul>
