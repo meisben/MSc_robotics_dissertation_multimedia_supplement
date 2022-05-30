@@ -14,12 +14,8 @@ This website provides a gateway to my dissseration and supplementary video submi
 <div id="resourcesPanel" class="container p-3 my-3 bg-info">
 <h2>Dissertation material</h2> 
   <p>Please click on the links below. </p>
-<br>
 <ul class="list-group">
   <a href="https://drive.google.com/file/d/1xnUxDvSMMhp5sHwxD5t4fX0OGhOgA23-/view?usp=sharing">Dissertation</a>
-</ul>
-<br>
-<ul class="list-group">
   <a href="https://youtu.be/kXyrZeB2AM8" target="_blank" class="list-group-item list-group-item-action">Supplementary video</a>
 </ul>
 </div>
