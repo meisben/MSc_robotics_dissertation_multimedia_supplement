@@ -15,7 +15,7 @@ This website provides a gateway to my dissseration and supplementary video submi
 <h2>Dissertation material</h2> 
   <p>Please click on the links below. </p>
 <ul class="list-group">
-  <a href="https://drive.google.com/file/d/1xnUxDvSMMhp5sHwxD5t4fX0OGhOgA23-/view?usp=sharing">Dissertation</a>
+  <a href="https://drive.google.com/file/d/1xnUxDvSMMhp5sHwxD5t4fX0OGhOgA23-/view?usp=sharing" target="_blank" class="list-group-item list-group-item-action">Dissertation</a>
   <a href="https://youtu.be/kXyrZeB2AM8" target="_blank" class="list-group-item list-group-item-action">Supplementary video</a>
 </ul>
 </div>
